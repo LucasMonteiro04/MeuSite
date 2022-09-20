@@ -8,4 +8,4 @@ Criei esse site que descreve o meu perfil e gostos
 
 ### Link do Site
 Veja você mesmo o site que criei
-[GamesPAG] (https://lucasgoncalves.surge.sh/)
+https://lucasgoncalves.surge.sh/
